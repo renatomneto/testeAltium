@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=Net12V_1 Pin=C1-1
+Removed Pin From Net: NetName=Net+9V_3 Pin=C1-2
+Removed Pin From Net: NetName=Net+9V_3 Pin=C2-2
+Removed Pin From Net: NetName=Net12V_1 Pin=C3-1
+Removed Pin From Net: NetName=Net+9V_3 Pin=C3-2
+Removed Pin From Net: NetName=Net+9V_3 Pin=REG-1
+Removed Pin From Net: NetName=Net12V_1 Pin=REG-3
+Removed Member From Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=C1
+Removed Member From Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=C2
+Removed Member From Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=C3
+Removed Member From Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=REG
+Change Component Designator: OldDesignator=DRL NewDesignator=DRL2
+Change Component Designator: OldDesignator=VG NewDesignator=DRL1
+Change Component Description : Designator=Zener Old Description=Diodo Zener New Description=Diodo Zener | 3V3 | 1W
+Change Net Name : Old Net Name=Net+9V_3 New Net Name=GND
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_5 Pin=Arduino Nano 33 BLE Sense-5
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_5 Pin=ENCD-5
+Added Net: Name=NetArduino Nano 33 BLE Sense_5
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_6 Pin=Arduino Nano 33 BLE Sense-6
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_6 Pin=ENCD-4
+Added Net: Name=NetArduino Nano 33 BLE Sense_6
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_7 Pin=Arduino Nano 33 BLE Sense-7
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_7 Pin=ENCD-3
+Added Net: Name=NetArduino Nano 33 BLE Sense_7
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_8 Pin=Arduino Nano 33 BLE Sense-8
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_8 Pin=ENCD-2
+Added Net: Name=NetArduino Nano 33 BLE Sense_8
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_9 Pin=Arduino Nano 33 BLE Sense-9
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_9 Pin=ENCD-1
+Added Net: Name=NetArduino Nano 33 BLE Sense_9
+Added Pin To Net: NetName=NetCHAVE_1 Pin=CHAVE-1
+Added Net: Name=NetCHAVE_1
+Added Member To Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=Component D1 Diode 1N4148
+Added Member To Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=Component D2 Diode 1N4148

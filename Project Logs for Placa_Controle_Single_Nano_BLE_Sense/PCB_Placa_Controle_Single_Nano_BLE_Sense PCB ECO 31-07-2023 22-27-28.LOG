@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=NetCHAVE_2 Pin=NODE MCU 32S-1
+Removed Pin From Net: NetName=NetENCD_5 Pin=NODE MCU 32S-4
+Removed Pin From Net: NetName=NetENCD_4 Pin=NODE MCU 32S-5
+Removed Pin From Net: NetName=NetENCD_3 Pin=NODE MCU 32S-6
+Removed Pin From Net: NetName=NetENCD_2 Pin=NODE MCU 32S-7
+Removed Pin From Net: NetName=NetENCD_1 Pin=NODE MCU 32S-8
+Removed Pin From Net: NetName=Net+1_3 Pin=NODE MCU 32S-14
+Removed Pin From Net: NetName=Net+1_3 Pin=NODE MCU 32S-20
+Removed Pin From Net: NetName=NetM5_2 Pin=NODE MCU 32S-21
+Removed Pin From Net: NetName=NetM5_1 Pin=NODE MCU 32S-25
+Removed Pin From Net: NetName=Net+1_3 Pin=NODE MCU 32S-26
+Removed Pin From Net: NetName=NetM4_2 Pin=NODE MCU 32S-27
+Removed Pin From Net: NetName=NetM4_1 Pin=NODE MCU 32S-28
+Removed Pin From Net: NetName=NetM3_2 Pin=NODE MCU 32S-29
+Removed Pin From Net: NetName=NetM3_1 Pin=NODE MCU 32S-30
+Removed Pin From Net: NetName=NetM2_2 Pin=NODE MCU 32S-33
+Removed Pin From Net: NetName=NetM2_1 Pin=NODE MCU 32S-34
+Removed Pin From Net: NetName=NetM1_1 Pin=NODE MCU 32S-35
+Removed Pin From Net: NetName=NetM1_2 Pin=NODE MCU 32S-36
+Removed Member From Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=NODE MCU 32S
+Added Component: Designator=Arduino Nano 33 BLE Sense(MODULE_ABX00027)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=3949339"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=3949339"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABX00027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABX00027/Arduino/view-part/3949339/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PJ-313(PJ313)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PJ-313"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://p.globalsources.com/IMAGES/PDT/SPEC/678/K1007224678.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Haoyu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PJ-313"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDRL2_1 Pin=PJ-313-1
+Added Pin To Net: NetName=Net+1_3 Pin=PJ-313-2
+Added Pin To Net: NetName=NetDRL2_2 Pin=PJ-313-3
+Added Pin To Net: NetName=NetOUT1_1 Pin=OUT1-1
+Added Pin To Net: NetName=NetOUT1_1 Pin=Zener1-C
+Added Net: Name=NetOUT1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Net: Name=NetR2_2
+Added Member To Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=Component Arduino Nano 33 BLE Sense
+Added Member To Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=Component PJ-313

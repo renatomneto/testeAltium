@@ -1,0 +1,13 @@
+Added Component: Designator=Zener1(DIOAD1060W80L410D260)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N4752A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N4752A/ON%20Semiconductor/view-part/1474353/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net+1_3 Pin=Zener1-A
+Added Pin To Net: NetName=NetNODE MCU 32S_3 Pin=Zener1-C
+Added Member To Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=Component TRIMPOT1 Pot
+Added Member To Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=Component Zener1 1N4728A

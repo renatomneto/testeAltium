@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=R1-2
+Removed Member From Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=R1
+Removed Member From Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=R2
+Added Component: Designator=Servo(61300311121)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61300311121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "June 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net+9V_3 Pin=Arduino Nano 33 BLE Sense-14
+Added Pin To Net: NetName=Net+9V_3 Pin=Arduino Nano 33 BLE Sense-19
+Added Pin To Net: NetName=NetM1_3 Pin=Servo-2
+Added Pin To Net: NetName=Net+9V_3 Pin=Servo-3
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_20 Pin=Arduino Nano 33 BLE Sense-20
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_20 Pin=M1-2
+Added Net: Name=NetArduino Nano 33 BLE Sense_20
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_21 Pin=Arduino Nano 33 BLE Sense-21
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_21 Pin=M1-1
+Added Net: Name=NetArduino Nano 33 BLE Sense_21
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_22 Pin=Arduino Nano 33 BLE Sense-22
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_22 Pin=M2-2
+Added Net: Name=NetArduino Nano 33 BLE Sense_22
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_23 Pin=Arduino Nano 33 BLE Sense-23
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_23 Pin=M2-1
+Added Net: Name=NetArduino Nano 33 BLE Sense_23
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_24 Pin=Arduino Nano 33 BLE Sense-24
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_24 Pin=M3-2
+Added Net: Name=NetArduino Nano 33 BLE Sense_24
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_25 Pin=Arduino Nano 33 BLE Sense-25
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_25 Pin=M3-1
+Added Net: Name=NetArduino Nano 33 BLE Sense_25
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_26 Pin=Arduino Nano 33 BLE Sense-26
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_26 Pin=M4-2
+Added Net: Name=NetArduino Nano 33 BLE Sense_26
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_27 Pin=Arduino Nano 33 BLE Sense-27
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_27 Pin=M4-1
+Added Net: Name=NetArduino Nano 33 BLE Sense_27
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_28 Pin=Arduino Nano 33 BLE Sense-28
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_28 Pin=M5-2
+Added Net: Name=NetArduino Nano 33 BLE Sense_28
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_29 Pin=Arduino Nano 33 BLE Sense-29
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_29 Pin=M5-1
+Added Net: Name=NetArduino Nano 33 BLE Sense_29
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_30 Pin=Arduino Nano 33 BLE Sense-30
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_30 Pin=Servo-1
+Added Net: Name=NetArduino Nano 33 BLE Sense_30
+Added Member To Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=Component Servo 61300311121

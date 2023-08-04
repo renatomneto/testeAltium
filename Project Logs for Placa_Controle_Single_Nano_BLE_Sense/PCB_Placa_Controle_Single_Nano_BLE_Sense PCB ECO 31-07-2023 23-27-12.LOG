@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=DRL NewDesignator=DRL2
+Change Component Designator: OldDesignator=VG NewDesignator=DRL1
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_15 Pin=Arduino Nano 33 BLE Sense-15
+Added Pin To Net: NetName=NetArduino Nano 33 BLE Sense_15 Pin=CHAVE-2
+Added Net: Name=NetArduino Nano 33 BLE Sense_15
+Added Member To Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=Component 12V PINOUT

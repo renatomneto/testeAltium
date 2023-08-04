@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=Net12V_2 Pin=Microfone-1
+Removed Pin From Net: NetName=NetC2_1 Pin=Microfone-2
+Removed Member From Class: ClassName=SCH Placa de Controle Node Microfone Member=Microfone
+Change Component Description : Designator=REG Old Description=Regulador de Tensão 3.3V - TO-220 New Description=Regulador de Tensão 3.3V - TO-220 
+Added Component: Designator=TRIMPOT?(TRIMPOT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Variable Resistor, Thru-Hole; 3 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "VR5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Set Position"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sim Note"; Value = "Enter the Resistance value and the set point into parameter fields."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net12V_2 New Net Name=Net+?_3
+Added Net: Name=Net+?_1
+Added Net: Name=Net+?_2
+Added Net: Name=NetD?_1
+Added Net: Name=NetD?_2
+Added Net: Name=NetDRL?_1
+Added Net: Name=NetDRL?_2
+Added Pin To Net: NetName=NetNODE MCU 32S_11 Pin=NODE MCU 32S-11
+Added Net: Name=NetNODE MCU 32S_11
+Added Pin To Net: NetName=NetNODE MCU 32S_12 Pin=NODE MCU 32S-12
+Added Net: Name=NetNODE MCU 32S_12
+Added Pin To Net: NetName=NetNODE MCU 32S_13 Pin=NODE MCU 32S-13
+Added Net: Name=NetNODE MCU 32S_13
+Added Pin To Net: NetName=NetPOT?_1 Pin=TRIMPOT?-1
+Added Net: Name=NetPOT?_1
+Added Pin To Net: NetName=NetPOT?_2 Pin=TRIMPOT?-2
+Added Pin To Net: NetName=NetPOT?_2 Pin=TRIMPOT?-3
+Added Net: Name=NetPOT?_2
+Change Class Name : Old Net Name=SCH Placa de Controle Node Microfone New Net Name=SCH_Placa_Controle_Single_Nano_BLE_Sense
+Added Member To Class: ClassName=SCH_Placa_Controle_Single_Nano_BLE_Sense Member=Component TRIMPOT? RPot
+Change Room Name: Old Name=SCH Placa de Controle Node Microfone New Name=SCH_Placa_Controle_Single_Nano_BLE_Sense
+Change Room Scope: Old Scope=InComponentClass('SCH Placa de Controle Node Microfone') New Scope=InComponentClass('SCH_Placa_Controle_Single_Nano_BLE_Sense')
